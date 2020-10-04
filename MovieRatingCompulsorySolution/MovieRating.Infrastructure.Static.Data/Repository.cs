@@ -1,10 +1,11 @@
-﻿using System;
+﻿using MovieRating.Core.DomainService;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace MovieRating.Infrastructure.Static.Data
 {
-    class Repository
+    public class Repository: IRepository
     {
     }
 }

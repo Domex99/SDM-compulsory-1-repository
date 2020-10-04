@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\Desktop\\SDM Compulsory1\\MovieRatingCompulsorySolution\\MovieRating.Infrastructure.Static.Data\\MovieRating.Infrastructure.Static.Data.csproj": {}
+    "C:\\Users\\hp\\Desktop\\SDM compulsory 1 repository\\MovieRatingCompulsorySolution\\MovieRating.Infrastructure.Static.Data\\MovieRating.Infrastructure.Static.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\Desktop\\SDM Compulsory1\\MovieRatingCompulsorySolution\\MovieRating.Core\\MovieRating.Core.csproj": {
+    "C:\\Users\\hp\\Desktop\\SDM compulsory 1 repository\\MovieRatingCompulsorySolution\\MovieRating.Core\\MovieRating.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Desktop\\SDM Compulsory1\\MovieRatingCompulsorySolution\\MovieRating.Core\\MovieRating.Core.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Desktop\\SDM compulsory 1 repository\\MovieRatingCompulsorySolution\\MovieRating.Core\\MovieRating.Core.csproj",
         "projectName": "MovieRating.Core",
-        "projectPath": "C:\\Users\\hp\\Desktop\\SDM Compulsory1\\MovieRatingCompulsorySolution\\MovieRating.Core\\MovieRating.Core.csproj",
+        "projectPath": "C:\\Users\\hp\\Desktop\\SDM compulsory 1 repository\\MovieRatingCompulsorySolution\\MovieRating.Core\\MovieRating.Core.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Desktop\\SDM Compulsory1\\MovieRatingCompulsorySolution\\MovieRating.Core\\obj\\",
+        "outputPath": "C:\\Users\\hp\\Desktop\\SDM compulsory 1 repository\\MovieRatingCompulsorySolution\\MovieRating.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -56,14 +56,14 @@
         }
       }
     },
-    "C:\\Users\\hp\\Desktop\\SDM Compulsory1\\MovieRatingCompulsorySolution\\MovieRating.Infrastructure.Static.Data\\MovieRating.Infrastructure.Static.Data.csproj": {
+    "C:\\Users\\hp\\Desktop\\SDM compulsory 1 repository\\MovieRatingCompulsorySolution\\MovieRating.Infrastructure.Static.Data\\MovieRating.Infrastructure.Static.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Desktop\\SDM Compulsory1\\MovieRatingCompulsorySolution\\MovieRating.Infrastructure.Static.Data\\MovieRating.Infrastructure.Static.Data.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Desktop\\SDM compulsory 1 repository\\MovieRatingCompulsorySolution\\MovieRating.Infrastructure.Static.Data\\MovieRating.Infrastructure.Static.Data.csproj",
         "projectName": "MovieRating.Infrastructure.Static.Data",
-        "projectPath": "C:\\Users\\hp\\Desktop\\SDM Compulsory1\\MovieRatingCompulsorySolution\\MovieRating.Infrastructure.Static.Data\\MovieRating.Infrastructure.Static.Data.csproj",
+        "projectPath": "C:\\Users\\hp\\Desktop\\SDM compulsory 1 repository\\MovieRatingCompulsorySolution\\MovieRating.Infrastructure.Static.Data\\MovieRating.Infrastructure.Static.Data.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Desktop\\SDM Compulsory1\\MovieRatingCompulsorySolution\\MovieRating.Infrastructure.Static.Data\\obj\\",
+        "outputPath": "C:\\Users\\hp\\Desktop\\SDM compulsory 1 repository\\MovieRatingCompulsorySolution\\MovieRating.Infrastructure.Static.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -79,8 +79,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\hp\\Desktop\\SDM Compulsory1\\MovieRatingCompulsorySolution\\MovieRating.Core\\MovieRating.Core.csproj": {
-                "projectPath": "C:\\Users\\hp\\Desktop\\SDM Compulsory1\\MovieRatingCompulsorySolution\\MovieRating.Core\\MovieRating.Core.csproj"
+              "C:\\Users\\hp\\Desktop\\SDM compulsory 1 repository\\MovieRatingCompulsorySolution\\MovieRating.Core\\MovieRating.Core.csproj": {
+                "projectPath": "C:\\Users\\hp\\Desktop\\SDM compulsory 1 repository\\MovieRatingCompulsorySolution\\MovieRating.Core\\MovieRating.Core.csproj"
               }
             }
           }

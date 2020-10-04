@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\Desktop\\SDM Compulsory1\\MovieRatingCompulsorySolution\\MovieRating.Core.Entity\\MovieRating.Core.Entity.csproj": {}
+    "C:\\Users\\hp\\Desktop\\SDM compulsory 1 repository\\MovieRatingCompulsorySolution\\MovieRating.Core.Entity\\MovieRating.Core.Entity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\Desktop\\SDM Compulsory1\\MovieRatingCompulsorySolution\\MovieRating.Core.Entity\\MovieRating.Core.Entity.csproj": {
+    "C:\\Users\\hp\\Desktop\\SDM compulsory 1 repository\\MovieRatingCompulsorySolution\\MovieRating.Core.Entity\\MovieRating.Core.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Desktop\\SDM Compulsory1\\MovieRatingCompulsorySolution\\MovieRating.Core.Entity\\MovieRating.Core.Entity.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Desktop\\SDM compulsory 1 repository\\MovieRatingCompulsorySolution\\MovieRating.Core.Entity\\MovieRating.Core.Entity.csproj",
         "projectName": "MovieRating.Core.Entity",
-        "projectPath": "C:\\Users\\hp\\Desktop\\SDM Compulsory1\\MovieRatingCompulsorySolution\\MovieRating.Core.Entity\\MovieRating.Core.Entity.csproj",
+        "projectPath": "C:\\Users\\hp\\Desktop\\SDM compulsory 1 repository\\MovieRatingCompulsorySolution\\MovieRating.Core.Entity\\MovieRating.Core.Entity.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Desktop\\SDM Compulsory1\\MovieRatingCompulsorySolution\\MovieRating.Core.Entity\\obj\\",
+        "outputPath": "C:\\Users\\hp\\Desktop\\SDM compulsory 1 repository\\MovieRatingCompulsorySolution\\MovieRating.Core.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",

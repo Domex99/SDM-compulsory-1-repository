@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\Desktop\\SDM Compulsory1\\MovieRatingCompulsorySolution\\MovieRating.Infrastructure.Static.Data\\MovieRating.Infrastructure.Static.Data.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\Desktop\\SDM compulsory 1 repository\\MovieRatingCompulsorySolution\\MovieRating.Infrastructure.Static.Data\\MovieRating.Infrastructure.Static.Data.csproj",
       "projectName": "MovieRating.Infrastructure.Static.Data",
-      "projectPath": "C:\\Users\\hp\\Desktop\\SDM Compulsory1\\MovieRatingCompulsorySolution\\MovieRating.Infrastructure.Static.Data\\MovieRating.Infrastructure.Static.Data.csproj",
+      "projectPath": "C:\\Users\\hp\\Desktop\\SDM compulsory 1 repository\\MovieRatingCompulsorySolution\\MovieRating.Infrastructure.Static.Data\\MovieRating.Infrastructure.Static.Data.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\Desktop\\SDM Compulsory1\\MovieRatingCompulsorySolution\\MovieRating.Infrastructure.Static.Data\\obj\\",
+      "outputPath": "C:\\Users\\hp\\Desktop\\SDM compulsory 1 repository\\MovieRatingCompulsorySolution\\MovieRating.Infrastructure.Static.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,8 +52,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\hp\\Desktop\\SDM Compulsory1\\MovieRatingCompulsorySolution\\MovieRating.Core\\MovieRating.Core.csproj": {
-              "projectPath": "C:\\Users\\hp\\Desktop\\SDM Compulsory1\\MovieRatingCompulsorySolution\\MovieRating.Core\\MovieRating.Core.csproj"
+            "C:\\Users\\hp\\Desktop\\SDM compulsory 1 repository\\MovieRatingCompulsorySolution\\MovieRating.Core\\MovieRating.Core.csproj": {
+              "projectPath": "C:\\Users\\hp\\Desktop\\SDM compulsory 1 repository\\MovieRatingCompulsorySolution\\MovieRating.Core\\MovieRating.Core.csproj"
             }
           }
         }

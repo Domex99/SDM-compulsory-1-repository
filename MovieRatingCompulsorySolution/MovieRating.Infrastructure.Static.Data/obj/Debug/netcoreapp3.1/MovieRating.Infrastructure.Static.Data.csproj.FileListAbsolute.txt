@@ -1,0 +1,4 @@
+C:\Users\hp\Desktop\SDM compulsory 1 repository\MovieRatingCompulsorySolution\MovieRating.Infrastructure.Static.Data\obj\Debug\netcoreapp3.1\MovieRating.Infrastructure.Static.Data.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\SDM compulsory 1 repository\MovieRatingCompulsorySolution\MovieRating.Infrastructure.Static.Data\obj\Debug\netcoreapp3.1\MovieRating.Infrastructure.Static.Data.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\SDM compulsory 1 repository\MovieRatingCompulsorySolution\MovieRating.Infrastructure.Static.Data\obj\Debug\netcoreapp3.1\MovieRating.Infrastructure.Static.Data.AssemblyInfo.cs
+C:\Users\hp\Desktop\SDM compulsory 1 repository\MovieRatingCompulsorySolution\MovieRating.Infrastructure.Static.Data\obj\Debug\netcoreapp3.1\MovieRating.Infrastructure.Static.Data.csproj.CoreCompileInputs.cache

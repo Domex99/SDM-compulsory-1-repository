@@ -11,6 +11,16 @@
         "runtime": {
           "bin/placeholder/MovieRating.Core.dll": {}
         }
+      },
+      "MovieRating.Core.Entity/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/MovieRating.Core.Entity.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MovieRating.Core.Entity.dll": {}
+        }
       }
     }
   },
@@ -19,11 +29,17 @@
       "type": "project",
       "path": "../MovieRating.Core/MovieRating.Core.csproj",
       "msbuildProject": "../MovieRating.Core/MovieRating.Core.csproj"
+    },
+    "MovieRating.Core.Entity/1.0.0": {
+      "type": "project",
+      "path": "../MovieRating.Core.Entity/MovieRating.Core.Entity.csproj",
+      "msbuildProject": "../MovieRating.Core.Entity/MovieRating.Core.Entity.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "MovieRating.Core >= 1.0.0"
+      "MovieRating.Core >= 1.0.0",
+      "MovieRating.Core.Entity >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -52,6 +68,9 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
+            "C:\\Users\\hp\\Desktop\\SDM compulsory 1 repository\\MovieRatingCompulsorySolution\\MovieRating.Core.Entity\\MovieRating.Core.Entity.csproj": {
+              "projectPath": "C:\\Users\\hp\\Desktop\\SDM compulsory 1 repository\\MovieRatingCompulsorySolution\\MovieRating.Core.Entity\\MovieRating.Core.Entity.csproj"
+            },
             "C:\\Users\\hp\\Desktop\\SDM compulsory 1 repository\\MovieRatingCompulsorySolution\\MovieRating.Core\\MovieRating.Core.csproj": {
               "projectPath": "C:\\Users\\hp\\Desktop\\SDM compulsory 1 repository\\MovieRatingCompulsorySolution\\MovieRating.Core\\MovieRating.Core.csproj"
             }

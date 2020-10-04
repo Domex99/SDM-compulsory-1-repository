@@ -6,5 +6,6 @@ namespace MovieRating.Core.DomainService
 {
     public interface IRepository
     {
+        
     }
 }

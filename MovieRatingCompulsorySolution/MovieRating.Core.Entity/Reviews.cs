@@ -11,5 +11,7 @@ namespace MovieRating.Core.Entity
         public int Rating { get; set; }
         public DateTime ReviewDate { get; set; }
         public int ReviewerId { get; set; }
+        public int Grade { get; set; }
+
     }
 }

@@ -1,8 +1,5 @@
 ﻿using MovieRating.Core.DomainService;
-using System;
 using System.Collections.Generic;
-using System.Text;
-using MovieRating.Core.DomainService;
 using MovieRating.Core.Entity;
 
 namespace MovieRating.Infrastructure.Static.Data

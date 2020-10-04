@@ -2,3 +2,15 @@ C:\Users\hp\Desktop\SDM compulsory 1 repository\MovieRatingCompulsorySolution\Mo
 C:\Users\hp\Desktop\SDM compulsory 1 repository\MovieRatingCompulsorySolution\MovieRating.Core\obj\Debug\netcoreapp3.1\MovieRating.Core.AssemblyInfoInputs.cache
 C:\Users\hp\Desktop\SDM compulsory 1 repository\MovieRatingCompulsorySolution\MovieRating.Core\obj\Debug\netcoreapp3.1\MovieRating.Core.AssemblyInfo.cs
 C:\Users\hp\Desktop\SDM compulsory 1 repository\MovieRatingCompulsorySolution\MovieRating.Core\obj\Debug\netcoreapp3.1\MovieRating.Core.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\SDM-compulsory-1-repository\MovieRatingCompulsorySolution\MovieRating.Core\obj\Debug\netcoreapp3.1\MovieRating.Core.csprojAssemblyReference.cache
+C:\Users\PC\Documents\GitHub\SDM-compulsory-1-repository\MovieRatingCompulsorySolution\MovieRating.Core\obj\Debug\netcoreapp3.1\MovieRating.Core.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\SDM-compulsory-1-repository\MovieRatingCompulsorySolution\MovieRating.Core\obj\Debug\netcoreapp3.1\MovieRating.Core.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\SDM-compulsory-1-repository\MovieRatingCompulsorySolution\MovieRating.Core\obj\Debug\netcoreapp3.1\MovieRating.Core.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\SDM-compulsory-1-repository\MovieRatingCompulsorySolution\MovieRating.Core\bin\Debug\netcoreapp3.1\MovieRating.Core.deps.json
+C:\Users\PC\Documents\GitHub\SDM-compulsory-1-repository\MovieRatingCompulsorySolution\MovieRating.Core\bin\Debug\netcoreapp3.1\MovieRating.Core.dll
+C:\Users\PC\Documents\GitHub\SDM-compulsory-1-repository\MovieRatingCompulsorySolution\MovieRating.Core\bin\Debug\netcoreapp3.1\MovieRating.Core.pdb
+C:\Users\PC\Documents\GitHub\SDM-compulsory-1-repository\MovieRatingCompulsorySolution\MovieRating.Core\bin\Debug\netcoreapp3.1\MovieRating.Core.Entity.dll
+C:\Users\PC\Documents\GitHub\SDM-compulsory-1-repository\MovieRatingCompulsorySolution\MovieRating.Core\bin\Debug\netcoreapp3.1\MovieRating.Core.Entity.pdb
+C:\Users\PC\Documents\GitHub\SDM-compulsory-1-repository\MovieRatingCompulsorySolution\MovieRating.Core\obj\Debug\netcoreapp3.1\MovieRating.Core.csproj.CopyComplete
+C:\Users\PC\Documents\GitHub\SDM-compulsory-1-repository\MovieRatingCompulsorySolution\MovieRating.Core\obj\Debug\netcoreapp3.1\MovieRating.Core.dll
+C:\Users\PC\Documents\GitHub\SDM-compulsory-1-repository\MovieRatingCompulsorySolution\MovieRating.Core\obj\Debug\netcoreapp3.1\MovieRating.Core.pdb

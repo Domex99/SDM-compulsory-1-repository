@@ -11,7 +11,6 @@ C:\Users\hp\Desktop\SDM compulsory 1 repository\MovieRatingCompulsorySolution\Mo
 C:\Users\hp\Desktop\SDM compulsory 1 repository\MovieRatingCompulsorySolution\MovieRatingMockTests\obj\Debug\netcoreapp3.1\MovieRatingMockTests.dll
 C:\Users\hp\Desktop\SDM compulsory 1 repository\MovieRatingCompulsorySolution\MovieRatingMockTests\obj\Debug\netcoreapp3.1\MovieRatingMockTests.pdb
 C:\Users\hp\Desktop\SDM compulsory 1 repository\MovieRatingCompulsorySolution\MovieRatingMockTests\obj\Debug\netcoreapp3.1\MovieRatingMockTests.genruntimeconfig.cache
-C:\Users\PC\Documents\GitHub\SDM-compulsory-1-repository\MovieRatingCompulsorySolution\MovieRatingMockTests\bin\Debug\netcoreapp3.1\MovieRatingMockTests.exe
 C:\Users\PC\Documents\GitHub\SDM-compulsory-1-repository\MovieRatingCompulsorySolution\MovieRatingMockTests\bin\Debug\netcoreapp3.1\MovieRatingMockTests.deps.json
 C:\Users\PC\Documents\GitHub\SDM-compulsory-1-repository\MovieRatingCompulsorySolution\MovieRatingMockTests\bin\Debug\netcoreapp3.1\MovieRatingMockTests.runtimeconfig.json
 C:\Users\PC\Documents\GitHub\SDM-compulsory-1-repository\MovieRatingCompulsorySolution\MovieRatingMockTests\bin\Debug\netcoreapp3.1\MovieRatingMockTests.runtimeconfig.dev.json
@@ -106,3 +105,10 @@ C:\Users\PC\Documents\GitHub\SDM-compulsory-1-repository\MovieRatingCompulsorySo
 C:\Users\PC\Documents\GitHub\SDM-compulsory-1-repository\MovieRatingCompulsorySolution\MovieRatingMockTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
 C:\Users\PC\Documents\GitHub\SDM-compulsory-1-repository\MovieRatingCompulsorySolution\MovieRatingMockTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
 C:\Users\PC\Documents\GitHub\SDM-compulsory-1-repository\MovieRatingCompulsorySolution\MovieRatingMockTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\PC\Documents\GitHub\SDM-compulsory-1-repository\MovieRatingCompulsorySolution\MovieRatingMockTests\obj\Debug\netcoreapp3.1\MovieRatingMockTests.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\SDM-compulsory-1-repository\MovieRatingCompulsorySolution\MovieRatingMockTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\PC\Documents\GitHub\SDM-compulsory-1-repository\MovieRatingCompulsorySolution\MovieRatingMockTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\PC\Documents\GitHub\SDM-compulsory-1-repository\MovieRatingCompulsorySolution\MovieRatingMockTests\bin\Debug\netcoreapp3.1\MovieRating.Core.dll
+C:\Users\PC\Documents\GitHub\SDM-compulsory-1-repository\MovieRatingCompulsorySolution\MovieRatingMockTests\bin\Debug\netcoreapp3.1\MovieRating.Core.Entity.dll
+C:\Users\PC\Documents\GitHub\SDM-compulsory-1-repository\MovieRatingCompulsorySolution\MovieRatingMockTests\bin\Debug\netcoreapp3.1\MovieRating.Core.pdb
+C:\Users\PC\Documents\GitHub\SDM-compulsory-1-repository\MovieRatingCompulsorySolution\MovieRatingMockTests\bin\Debug\netcoreapp3.1\MovieRating.Core.Entity.pdb

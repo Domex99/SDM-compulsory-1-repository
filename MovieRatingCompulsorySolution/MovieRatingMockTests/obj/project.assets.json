@@ -1774,6 +1774,9 @@
       "MovieRating.Core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "MovieRating.Core.Entity": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/MovieRating.Core.dll": {}
         },
@@ -1789,20 +1792,6 @@
         },
         "runtime": {
           "bin/placeholder/MovieRating.Core.Entity.dll": {}
-        }
-      },
-      "MovieRating.Infrastructure.Static.Data/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "dependencies": {
-          "MovieRating.Core": "1.0.0",
-          "MovieRating.Core.Entity": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/MovieRating.Infrastructure.Static.Data.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/MovieRating.Infrastructure.Static.Data.dll": {}
         }
       }
     }
@@ -6216,11 +6205,6 @@
       "type": "project",
       "path": "../MovieRating.Core.Entity/MovieRating.Core.Entity.csproj",
       "msbuildProject": "../MovieRating.Core.Entity/MovieRating.Core.Entity.csproj"
-    },
-    "MovieRating.Infrastructure.Static.Data/1.0.0": {
-      "type": "project",
-      "path": "../MovieRating.Infrastructure.Static.Data/MovieRating.Infrastructure.Static.Data.csproj",
-      "msbuildProject": "../MovieRating.Infrastructure.Static.Data/MovieRating.Infrastructure.Static.Data.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -6230,25 +6214,23 @@
       "Microsoft.NET.Test.Sdk >= 16.7.1",
       "Moq >= 4.14.6",
       "MovieRating.Core >= 1.0.0",
-      "MovieRating.Core.Entity >= 1.0.0",
-      "MovieRating.Infrastructure.Static.Data >= 1.0.0",
       "coverlet.collector >= 1.3.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\hp\\.nuget\\packages\\": {}
+    "C:\\Users\\PC\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\Desktop\\SDM compulsory 1 repository\\MovieRatingCompulsorySolution\\MovieRatingMockTests\\MovieRatingMockTests.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\Documents\\GitHub\\SDM-compulsory-1-repository\\MovieRatingCompulsorySolution\\MovieRatingMockTests\\MovieRatingMockTests.csproj",
       "projectName": "MovieRatingMockTests",
-      "projectPath": "C:\\Users\\hp\\Desktop\\SDM compulsory 1 repository\\MovieRatingCompulsorySolution\\MovieRatingMockTests\\MovieRatingMockTests.csproj",
-      "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\Desktop\\SDM compulsory 1 repository\\MovieRatingCompulsorySolution\\MovieRatingMockTests\\obj\\",
+      "projectPath": "C:\\Users\\PC\\Documents\\GitHub\\SDM-compulsory-1-repository\\MovieRatingCompulsorySolution\\MovieRatingMockTests\\MovieRatingMockTests.csproj",
+      "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\PC\\Documents\\GitHub\\SDM-compulsory-1-repository\\MovieRatingCompulsorySolution\\MovieRatingMockTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6261,14 +6243,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\hp\\Desktop\\SDM compulsory 1 repository\\MovieRatingCompulsorySolution\\MovieRating.Core.Entity\\MovieRating.Core.Entity.csproj": {
-              "projectPath": "C:\\Users\\hp\\Desktop\\SDM compulsory 1 repository\\MovieRatingCompulsorySolution\\MovieRating.Core.Entity\\MovieRating.Core.Entity.csproj"
-            },
-            "C:\\Users\\hp\\Desktop\\SDM compulsory 1 repository\\MovieRatingCompulsorySolution\\MovieRating.Core\\MovieRating.Core.csproj": {
-              "projectPath": "C:\\Users\\hp\\Desktop\\SDM compulsory 1 repository\\MovieRatingCompulsorySolution\\MovieRating.Core\\MovieRating.Core.csproj"
-            },
-            "C:\\Users\\hp\\Desktop\\SDM compulsory 1 repository\\MovieRatingCompulsorySolution\\MovieRating.Infrastructure.Static.Data\\MovieRating.Infrastructure.Static.Data.csproj": {
-              "projectPath": "C:\\Users\\hp\\Desktop\\SDM compulsory 1 repository\\MovieRatingCompulsorySolution\\MovieRating.Infrastructure.Static.Data\\MovieRating.Infrastructure.Static.Data.csproj"
+            "C:\\Users\\PC\\Documents\\GitHub\\SDM-compulsory-1-repository\\MovieRatingCompulsorySolution\\MovieRating.Core\\MovieRating.Core.csproj": {
+              "projectPath": "C:\\Users\\PC\\Documents\\GitHub\\SDM-compulsory-1-repository\\MovieRatingCompulsorySolution\\MovieRating.Core\\MovieRating.Core.csproj"
             }
           }
         }

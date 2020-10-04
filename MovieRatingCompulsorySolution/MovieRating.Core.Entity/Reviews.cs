@@ -4,7 +4,7 @@ using System.Text;
 
 namespace MovieRating.Core.Entity
 {
-    public class Review
+    public class Reviews
     {
         public int ReviewId { get; set; }
         public int AssociatedMovieId { get; set; }

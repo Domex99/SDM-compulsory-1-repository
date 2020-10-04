@@ -6,6 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\MovieRating.Core.Entity\MovieRating.Core.Entity.csproj" />
     <ProjectReference Include="..\MovieRating.Core\MovieRating.Core.csproj" />
   </ItemGroup>
 

@@ -4,7 +4,7 @@ using System.Text;
 
 namespace MovieRating.Core.DomainService
 {
-    interface IRepository
+    public interface IRepository
     {
     }
 }

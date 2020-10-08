@@ -82,23 +82,6 @@ namespace MovieRatingMockTests
         { }
 
         [TestMethod] //Question 1
-        public void TestGetAverageRateFromReviewer()
-        {
-            // 1
-            Mock<IRepository> mock = new Mock<IRepository>();
-            mock.Setup(mock => mock.GetAllReviews()).Returns(() => returnValue1);
-            Service ReviewsService = new Service(mock.Object);
-            // 2
-            double actualResult = ReviewsService.GetAverageRateFromReviewer(1);
-            mock.Verify(mock => mock.GetAllReviews());
-            Assert.IsTrue(actualResult == 2.67, "It is the right person");
-            Assert.IsFalse(actualResult == 22, "It is the wrong person");
-
-            Assert.ThrowsException<ArgumentException>(() => ReviewsService.GetAverageRateFromReviewer(200));
-        }
-
-
-        [TestMethod] //Question 2
         public void TestGetNumberOfReviewsFromReviewer()
         {
             Mock<IRepository> mock = new Mock<IRepository>();
@@ -114,10 +97,24 @@ namespace MovieRatingMockTests
             Assert.IsTrue(actualResult2 == 3, "It is the right person");
             Assert.IsFalse(actualResult2 == 22, "It is the wrong person");
 
-            Assert.ThrowsException<ArgumentException>(() => ReviewsService.GetNumberOfReviewsFromReviewer(200));
         }
 
 
+        [TestMethod] //Question 2
+        public void TestGetAverageRateFromReviewer()
+        {
+            // 1
+            Mock<IRepository> mock = new Mock<IRepository>();
+            mock.Setup(mock => mock.GetAllReviews()).Returns(() => returnValue1);
+            Service ReviewsService = new Service(mock.Object);
+            // 2
+            double actualResult = ReviewsService.GetAverageRateFromReviewer(1);
+            mock.Verify(mock => mock.GetAllReviews());
+            Assert.IsTrue(actualResult == 2.67, "It is the right person");
+            Assert.IsFalse(actualResult == 22, "It is the wrong person");
+
+            Assert.ThrowsException<ArgumentException>(() => ReviewsService.GetNumberOfReviewsByReviewer(200));
+        }
 
         [TestMethod] //Question 3
         public void TestGetNumberOfRatesByReviewer()
@@ -154,7 +151,7 @@ namespace MovieRatingMockTests
             Assert.IsTrue(actualResult2 == 4, "It is the right person");
             Assert.IsFalse(actualResult2 == 22, "It is the wrong person");
 
-            Assert.ThrowsException<ArgumentException>(() => ReviewService.GetAverageRateFromReviewer(200));
+            Assert.ThrowsException<ArgumentException>(() => ReviewService.GetNumberOfReviewsByReviewer(200));
         }
 
         [TestMethod] //Question 5
@@ -173,7 +170,7 @@ namespace MovieRatingMockTests
             Assert.IsTrue(actualResult2 == 2.75, "It is the right person");
             Assert.IsFalse(actualResult2 == 22, "It is the wrong person");
 
-            Assert.ThrowsException<ArgumentException>(() => ReviewService.GetAverageRateFromReviewer(200));
+            Assert.ThrowsException<ArgumentException>(() => ReviewService.GetNumberOfReviewsByReviewer(200));
         }
 
         [TestMethod] //Question 6
@@ -192,7 +189,7 @@ namespace MovieRatingMockTests
             Assert.IsTrue(actualResult2 == 3, "It is the right person");
             Assert.IsFalse(actualResult2 == 22, "It is the wrong person");
 
-            Assert.ThrowsException<ArgumentException>(() => ReviewService.GetAverageRateFromReviewer(200));
+            Assert.ThrowsException<ArgumentException>(() => ReviewService.GetNumberOfReviewsByReviewer(200));
         }
 
         [TestMethod] //Question 10

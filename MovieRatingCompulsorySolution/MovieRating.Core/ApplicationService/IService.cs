@@ -8,7 +8,7 @@ namespace MovieRating.Core.ApplicationService
     {
         int GetNumberOfReviewsFromReviewer(int reviewer);
 
-        double GetAverageRateFromReviewer(int reviewer);
+        double GetNumberOfReviewsByReviewer(int reviewer);
 
         int GetNumberOfRatesByReviewer(int reviewer, int rate);
 
@@ -27,5 +27,7 @@ namespace MovieRating.Core.ApplicationService
         List<int> GetTopMoviesByReviewer(int reviewer);
 
         List<int> GetReviewersByMovie(int movie);
+
+        double GetAverageRateFromReviewer(int reviewer);
     }
 }

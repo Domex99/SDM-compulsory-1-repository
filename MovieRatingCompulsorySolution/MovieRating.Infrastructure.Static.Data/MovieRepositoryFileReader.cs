@@ -20,7 +20,7 @@ namespace MovieRating.Infrastructure.Static.Data
 
         private IEnumerable<Reviews> _ratingCollection;
 
-        public IEnumerable<Reviews> GetAll()
+        public IEnumerable<Reviews> GetAllReviews()
         {
             return _ratingCollection;
         }
@@ -45,11 +45,6 @@ namespace MovieRating.Infrastructure.Static.Data
                 }
                 _ratingCollection = ratings;
             }
-        }
-
-        public IEnumerable<Reviews> GetAllReviews()
-        {
-            throw new NotImplementedException();
         }
     }
 }

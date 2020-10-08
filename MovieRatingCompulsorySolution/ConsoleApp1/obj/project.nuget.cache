@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "e8FIez6T0uHymXCBVFjGxgF70PVkshshOF8eDopI1Hsb2GAWPavp2ZglnAXbszI1vzEByXZsYmkgqJj8o8zMJw==",
+  "dgSpecHash": "yRZatVYCDifaEUeqLDAigtvaaXDJ3KSXmgbaZSrL899hdAHXvcQJHYpNKgzgBWD8ke3JSbXousAPUjyUVuZYrg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC\\Documents\\GitHub\\SDM-compulsory-1-repository\\MovieRatingCompulsorySolution\\ConsoleApp1\\ConsoleApp1.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\PC\\Documents\\GitHub\\SDM-compulsory-1-repository\\MovieRatingCompulsorySolution\\ConsoleApp1\\ConsoleTester.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

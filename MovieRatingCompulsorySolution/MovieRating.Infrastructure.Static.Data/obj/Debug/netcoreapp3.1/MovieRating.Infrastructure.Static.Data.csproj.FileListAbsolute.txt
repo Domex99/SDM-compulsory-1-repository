@@ -6,3 +6,13 @@ C:\Users\PC\Documents\GitHub\SDM-compulsory-1-repository\MovieRatingCompulsorySo
 C:\Users\PC\Documents\GitHub\SDM-compulsory-1-repository\MovieRatingCompulsorySolution\MovieRating.Infrastructure.Static.Data\obj\Debug\netcoreapp3.1\MovieRating.Infrastructure.Static.Data.AssemblyInfoInputs.cache
 C:\Users\PC\Documents\GitHub\SDM-compulsory-1-repository\MovieRatingCompulsorySolution\MovieRating.Infrastructure.Static.Data\obj\Debug\netcoreapp3.1\MovieRating.Infrastructure.Static.Data.AssemblyInfo.cs
 C:\Users\PC\Documents\GitHub\SDM-compulsory-1-repository\MovieRatingCompulsorySolution\MovieRating.Infrastructure.Static.Data\obj\Debug\netcoreapp3.1\MovieRating.Infrastructure.Static.Data.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\SDM-compulsory-1-repository\MovieRatingCompulsorySolution\MovieRating.Infrastructure.Static.Data\bin\Debug\netcoreapp3.1\MovieRating.Core.dll
+C:\Users\PC\Documents\GitHub\SDM-compulsory-1-repository\MovieRatingCompulsorySolution\MovieRating.Infrastructure.Static.Data\bin\Debug\netcoreapp3.1\MovieRating.Core.Entity.dll
+C:\Users\PC\Documents\GitHub\SDM-compulsory-1-repository\MovieRatingCompulsorySolution\MovieRating.Infrastructure.Static.Data\bin\Debug\netcoreapp3.1\MovieRating.Core.Entity.pdb
+C:\Users\PC\Documents\GitHub\SDM-compulsory-1-repository\MovieRatingCompulsorySolution\MovieRating.Infrastructure.Static.Data\bin\Debug\netcoreapp3.1\MovieRating.Core.pdb
+C:\Users\PC\Documents\GitHub\SDM-compulsory-1-repository\MovieRatingCompulsorySolution\MovieRating.Infrastructure.Static.Data\obj\Debug\netcoreapp3.1\MovieRating.Infrastructure.Static.Data.csproj.CopyComplete
+C:\Users\PC\Documents\GitHub\SDM-compulsory-1-repository\MovieRatingCompulsorySolution\MovieRating.Infrastructure.Static.Data\bin\Debug\netcoreapp3.1\MovieRating.Infrastructure.Static.Data.deps.json
+C:\Users\PC\Documents\GitHub\SDM-compulsory-1-repository\MovieRatingCompulsorySolution\MovieRating.Infrastructure.Static.Data\bin\Debug\netcoreapp3.1\MovieRating.Infrastructure.Static.Data.dll
+C:\Users\PC\Documents\GitHub\SDM-compulsory-1-repository\MovieRatingCompulsorySolution\MovieRating.Infrastructure.Static.Data\bin\Debug\netcoreapp3.1\MovieRating.Infrastructure.Static.Data.pdb
+C:\Users\PC\Documents\GitHub\SDM-compulsory-1-repository\MovieRatingCompulsorySolution\MovieRating.Infrastructure.Static.Data\obj\Debug\netcoreapp3.1\MovieRating.Infrastructure.Static.Data.dll
+C:\Users\PC\Documents\GitHub\SDM-compulsory-1-repository\MovieRatingCompulsorySolution\MovieRating.Infrastructure.Static.Data\obj\Debug\netcoreapp3.1\MovieRating.Infrastructure.Static.Data.pdb

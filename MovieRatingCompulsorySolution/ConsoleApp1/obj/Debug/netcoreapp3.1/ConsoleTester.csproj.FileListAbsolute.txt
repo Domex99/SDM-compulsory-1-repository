@@ -1,0 +1,16 @@
+C:\Users\PC\Documents\GitHub\SDM-compulsory-1-repository\MovieRatingCompulsorySolution\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleTester.csprojAssemblyReference.cache
+C:\Users\PC\Documents\GitHub\SDM-compulsory-1-repository\MovieRatingCompulsorySolution\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleTester.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\SDM-compulsory-1-repository\MovieRatingCompulsorySolution\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleTester.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\SDM-compulsory-1-repository\MovieRatingCompulsorySolution\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleTester.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\SDM-compulsory-1-repository\MovieRatingCompulsorySolution\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleTester.deps.json
+C:\Users\PC\Documents\GitHub\SDM-compulsory-1-repository\MovieRatingCompulsorySolution\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleTester.dll
+C:\Users\PC\Documents\GitHub\SDM-compulsory-1-repository\MovieRatingCompulsorySolution\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleTester.pdb
+C:\Users\PC\Documents\GitHub\SDM-compulsory-1-repository\MovieRatingCompulsorySolution\ConsoleApp1\bin\Debug\netcoreapp3.1\MovieRating.Core.dll
+C:\Users\PC\Documents\GitHub\SDM-compulsory-1-repository\MovieRatingCompulsorySolution\ConsoleApp1\bin\Debug\netcoreapp3.1\MovieRating.Core.Entity.dll
+C:\Users\PC\Documents\GitHub\SDM-compulsory-1-repository\MovieRatingCompulsorySolution\ConsoleApp1\bin\Debug\netcoreapp3.1\MovieRating.Infrastructure.Static.Data.dll
+C:\Users\PC\Documents\GitHub\SDM-compulsory-1-repository\MovieRatingCompulsorySolution\ConsoleApp1\bin\Debug\netcoreapp3.1\MovieRating.Core.pdb
+C:\Users\PC\Documents\GitHub\SDM-compulsory-1-repository\MovieRatingCompulsorySolution\ConsoleApp1\bin\Debug\netcoreapp3.1\MovieRating.Infrastructure.Static.Data.pdb
+C:\Users\PC\Documents\GitHub\SDM-compulsory-1-repository\MovieRatingCompulsorySolution\ConsoleApp1\bin\Debug\netcoreapp3.1\MovieRating.Core.Entity.pdb
+C:\Users\PC\Documents\GitHub\SDM-compulsory-1-repository\MovieRatingCompulsorySolution\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleTester.csproj.CopyComplete
+C:\Users\PC\Documents\GitHub\SDM-compulsory-1-repository\MovieRatingCompulsorySolution\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleTester.dll
+C:\Users\PC\Documents\GitHub\SDM-compulsory-1-repository\MovieRatingCompulsorySolution\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleTester.pdb

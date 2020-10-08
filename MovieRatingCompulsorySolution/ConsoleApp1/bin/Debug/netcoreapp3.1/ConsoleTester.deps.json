@@ -1,0 +1,81 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ConsoleTester/1.0.0": {
+        "dependencies": {
+          "MovieRating.Core": "1.0.0",
+          "MovieRating.Infrastructure.Static.Data": "1.0.0",
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "runtime": {
+          "ConsoleTester.dll": {}
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.3.23909"
+          }
+        }
+      },
+      "MovieRating.Core/1.0.0": {
+        "dependencies": {
+          "MovieRating.Core.Entity": "1.0.0"
+        },
+        "runtime": {
+          "MovieRating.Core.dll": {}
+        }
+      },
+      "MovieRating.Core.Entity/1.0.0": {
+        "runtime": {
+          "MovieRating.Core.Entity.dll": {}
+        }
+      },
+      "MovieRating.Infrastructure.Static.Data/1.0.0": {
+        "dependencies": {
+          "MovieRating.Core": "1.0.0",
+          "MovieRating.Core.Entity": "1.0.0",
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "runtime": {
+          "MovieRating.Infrastructure.Static.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleTester/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "path": "newtonsoft.json/12.0.3",
+      "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
+    },
+    "MovieRating.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MovieRating.Core.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MovieRating.Infrastructure.Static.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

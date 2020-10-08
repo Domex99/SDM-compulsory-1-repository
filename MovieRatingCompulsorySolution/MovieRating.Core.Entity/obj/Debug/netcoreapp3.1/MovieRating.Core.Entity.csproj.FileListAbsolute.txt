@@ -2,7 +2,6 @@ C:\Users\hp\Desktop\SDM compulsory 1 repository\MovieRatingCompulsorySolution\Mo
 C:\Users\hp\Desktop\SDM compulsory 1 repository\MovieRatingCompulsorySolution\MovieRating.Core.Entity\obj\Debug\netcoreapp3.1\MovieRating.Core.Entity.AssemblyInfoInputs.cache
 C:\Users\hp\Desktop\SDM compulsory 1 repository\MovieRatingCompulsorySolution\MovieRating.Core.Entity\obj\Debug\netcoreapp3.1\MovieRating.Core.Entity.AssemblyInfo.cs
 C:\Users\hp\Desktop\SDM compulsory 1 repository\MovieRatingCompulsorySolution\MovieRating.Core.Entity\obj\Debug\netcoreapp3.1\MovieRating.Core.Entity.csproj.CoreCompileInputs.cache
-C:\Users\PC\Documents\GitHub\SDM-compulsory-1-repository\MovieRatingCompulsorySolution\MovieRating.Core.Entity\obj\Debug\netcoreapp3.1\MovieRating.Core.Entity.csprojAssemblyReference.cache
 C:\Users\PC\Documents\GitHub\SDM-compulsory-1-repository\MovieRatingCompulsorySolution\MovieRating.Core.Entity\obj\Debug\netcoreapp3.1\MovieRating.Core.Entity.AssemblyInfoInputs.cache
 C:\Users\PC\Documents\GitHub\SDM-compulsory-1-repository\MovieRatingCompulsorySolution\MovieRating.Core.Entity\obj\Debug\netcoreapp3.1\MovieRating.Core.Entity.AssemblyInfo.cs
 C:\Users\PC\Documents\GitHub\SDM-compulsory-1-repository\MovieRatingCompulsorySolution\MovieRating.Core.Entity\obj\Debug\netcoreapp3.1\MovieRating.Core.Entity.csproj.CoreCompileInputs.cache
@@ -11,3 +10,4 @@ C:\Users\PC\Documents\GitHub\SDM-compulsory-1-repository\MovieRatingCompulsorySo
 C:\Users\PC\Documents\GitHub\SDM-compulsory-1-repository\MovieRatingCompulsorySolution\MovieRating.Core.Entity\bin\Debug\netcoreapp3.1\MovieRating.Core.Entity.pdb
 C:\Users\PC\Documents\GitHub\SDM-compulsory-1-repository\MovieRatingCompulsorySolution\MovieRating.Core.Entity\obj\Debug\netcoreapp3.1\MovieRating.Core.Entity.dll
 C:\Users\PC\Documents\GitHub\SDM-compulsory-1-repository\MovieRatingCompulsorySolution\MovieRating.Core.Entity\obj\Debug\netcoreapp3.1\MovieRating.Core.Entity.pdb
+C:\Users\PC\Documents\GitHub\SDM-compulsory-1-repository\MovieRatingCompulsorySolution\MovieRating.Core.Entity\obj\Debug\netcoreapp3.1\MovieRating.Core.Entity.csprojAssemblyReference.cache

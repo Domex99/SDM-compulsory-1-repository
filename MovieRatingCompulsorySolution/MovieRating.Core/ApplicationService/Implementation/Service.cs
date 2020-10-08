@@ -170,7 +170,28 @@ namespace MovieRating.Core.ApplicationService.Implementation
         public List<int> GetTopRatedMovies(int amount)
         {
             throw new NotImplementedException();
-        }
 
-    }
+
+        }
+            public List<Reviewer> GetReviewers()
+            {
+                Dictionary<int, Reviewer> mReviewers = new Dictionary<int, Reviewer>();
+                foreach (Reviews r in _repo.GetAllReviews())
+                {
+                    int id = r.ReviewerId;
+                    if (mReviewers.ContainsKey(id) == false)
+                    {
+                        Reviewer rev = new Reviewer();
+                        rev.Id = id;
+                        rev.mReviews = new List<Reviews>();
+                        rev.mReviews.Add(r);
+                        mReviewers.Add(id, rev);
+                    }
+                    else
+                        mReviewers[id].mReviews.Add(r);
+                }
+                return mReviewers.Values.ToList();
+            }
+
+        }
 }

@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MovieRating.Infrastructure.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MovieRatingMockTests", "MovieRatingMockTests\MovieRatingMockTests.csproj", "{C00D47E7-D4F2-4782-AA7C-A242E9C85EB3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{B75CEABC-7E14-468E-B3DE-80F578DA564F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleTester", "ConsoleApp1\ConsoleTester.csproj", "{B75CEABC-7E14-468E-B3DE-80F578DA564F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerformanceTesting", "PerformanceTesting\PerformanceTesting.csproj", "{1D1CA05B-B9CD-42BF-B8F2-27B8F0BF426B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{B75CEABC-7E14-468E-B3DE-80F578DA564F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B75CEABC-7E14-468E-B3DE-80F578DA564F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B75CEABC-7E14-468E-B3DE-80F578DA564F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D1CA05B-B9CD-42BF-B8F2-27B8F0BF426B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D1CA05B-B9CD-42BF-B8F2-27B8F0BF426B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D1CA05B-B9CD-42BF-B8F2-27B8F0BF426B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D1CA05B-B9CD-42BF-B8F2-27B8F0BF426B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

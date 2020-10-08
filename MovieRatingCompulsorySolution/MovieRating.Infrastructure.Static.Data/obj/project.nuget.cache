@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "csWqxA3+0ePQZL3mKyW+v9FmV5o3C/q+BCEUkYqee0IHh+zHJWTaqc/DQJmJWIAtESdpWRhPb7pGCoZ+LuUaQw==",
+  "dgSpecHash": "wQRpL8K/tu99eSsWUdrLcBgC99vmFX+Trylzy3OeY8Sl6WQeZvr8fllEdouue5qvTdEqWV7DMmm3ACNaBv5pJg==",
   "success": true,
   "projectFilePath": "C:\\Users\\PC\\Documents\\GitHub\\SDM-compulsory-1-repository\\MovieRatingCompulsorySolution\\MovieRating.Infrastructure.Static.Data\\MovieRating.Infrastructure.Static.Data.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

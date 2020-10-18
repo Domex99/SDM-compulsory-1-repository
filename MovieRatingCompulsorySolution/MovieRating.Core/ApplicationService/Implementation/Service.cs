@@ -17,8 +17,6 @@ namespace MovieRating.Core.ApplicationService.Implementation
 
         public double GetNumberOfReviewsByReviewer(int reviewer)
         {
-            double avg = 0.0;
-            var totalRating = 0.0;
             List<Reviews> result = new List<Reviews>();
             List<Reviews> reviews = _repo.GetAllReviews().ToList();
             foreach (Reviews r in reviews)
@@ -26,20 +24,15 @@ namespace MovieRating.Core.ApplicationService.Implementation
                 if (r.ReviewerId == reviewer)
                 {
                     result.Add(r);
-                    totalRating += r.Rating;
                 }
             }
             if (result.Count == 0)
             {
-                throw new ArgumentException($"No reviews for reviewer with id {reviewer} were found, ");
+                throw new ArgumentException($"No reviews for reviewer with id {reviewer} were found");
             }
-            else
-            {
-                avg = totalRating / result.Count();
-                avg = Math.Round(avg, 2);
-            }
-            return avg;
+            return result.Count();
         }
+
 
         public double GetAverageRateOfMovie(int movie)
         {
